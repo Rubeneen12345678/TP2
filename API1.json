@@ -1,0 +1,26 @@
+{
+  "OrderID": 10203040,
+  "Address": "LogisTravel",
+  "Status": "Ready",
+  "Articles": [
+    {
+      "name": "Aceite",
+      "Price": 2000,
+      "Quantity": 5,
+      "Dangerous": false
+    },
+    { "name": "Yerba", "Price": 4000, "Quantity": 3, "Dangerous": false },
+    {
+      "name": "harina",
+      "Price": 1000,
+      "Quantity": 7,
+      "Dangerous": false
+    },
+    {
+      "name": "Acid",
+      "Price": 5000,
+      "Quantity": 2,
+      "Dangerous": true
+    }
+  ]
+}
